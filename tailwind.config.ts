@@ -1,3 +1,4 @@
+import exp from 'constants';
 import type { Config } from 'tailwindcss';
 
 const config: Config = {
